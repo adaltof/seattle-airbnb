@@ -27,10 +27,10 @@ We provide the notebooks for the analysis in this repository, and links to the o
 
 ## File Descriptions <a name="files"></a>
 
-The analysis process and results obtained are describde in the _Seattle-AirBnb-Project notebook available here. It showcases the whole process used during the analysis, from data preparation to analysis results. 
+The analysis process and results obtained are describde in the *Seattle-AirBnb-Project* notebook available here. It showcases the whole process used during the analysis, from data preparation to analysis results. 
 
 ## Results<a name="results"></a>
-otbtaining
+
 The main findings of the code can be found at the post available [here](http://www.medium.com).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
