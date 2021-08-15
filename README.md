@@ -31,7 +31,7 @@ The analysis process and results obtained are describde in the *Seattle-AirBnb-P
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](http://www.medium.com).
+The main findings of the code can be found at the post available [here](https://adaltoc.medium.com/how-professional-renters-fair-in-airbnb-a-data-science-study-1d15b51d2cd5).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
